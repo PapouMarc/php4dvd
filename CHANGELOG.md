@@ -1,3 +1,7 @@
+## 3.11.5
+### Updated
+  - imdbphp 8.3.1
+
 ## 3.11.4
 ### Fixed
   - The installer where missing database updates for 3.4 to 3.7 changes.
